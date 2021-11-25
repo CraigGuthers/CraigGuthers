@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CraigGuthers
-- 👀 I’m interested in Video Game development, Software, website design 
+- 👀 I’m interested in Software development, website design 
 - 🌱 I’m currently learning C#, JavaScript, React, SQL 
 - 💞️ I’m looking to Learn new skills and gain more experience.
 
